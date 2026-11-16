@@ -1,0 +1,8 @@
+{
+  "name": "jacks-diner",
+  "version": "1.0.0",
+  "description": "Jack's Diner — all-day diner at 41B George St, Charleston SC (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
